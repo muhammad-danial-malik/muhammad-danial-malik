@@ -43,7 +43,7 @@ Feel free to reach out for mern-stack development projects or inquiries.
 ---
  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=muhammad-danial-malik&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=muhammad-danial-malik&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=muhammad-danial-malik&theme=dark&hide_border=false)<br/> 
 ### Most Used Languages
 <p align="center">

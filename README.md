@@ -7,17 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+MERN+Stack+Developer!&font=Fira%20Code&center=true&width=600&height=45&color=4e96ff&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<picture>
-  <!-- Dark theme -->
-  <source 
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-danial-malik&bg_color=0d1117&color=4E96FF&line=4E96FF&point=4E96FF&area=true&area_color=4E96FF&hide_border=true" 
-    media="(prefers-color-scheme: dark)">
-    
-  <!-- Light theme -->
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-danial-malik&bg_color=ffffff&color=4E96FF&line=4E96FF&point=4E96FF&area=true&area_color=4E96FF&hide_border=true" 
-    alt="GitHub Activity Graph">
-</picture>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammad-danial-malik&bg_color=ffffff&color=4E96FF&line=4E96FF&point=4E96FF&area=true&area_color=4E96FF&hide_border=true)
 
 # 💫 About Me:
 💻 MERN-stack Developer

@@ -56,3 +56,11 @@ Feel free to reach out for mern-stack development projects or inquiries.
 
 ### ✍ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=muhammad-danial-malik&color=4E96FF" alt="Profile views" />
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4E96FF&height=120&section=footer"/>

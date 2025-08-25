@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+MERN+Stack+Developer!&font=Fira%20Code&center=true&width=600&height=45&color=4e96ff&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammad-danial-malik&bg_color=00000000&color=4E96FF&line=4E96FF&point=4E96FF&area=true&area_color=4E96FF&hide_border=true)
+<!-- [GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammad-danial-malik&bg_color=00000000&color=4E96FF&line=4E96FF&point=4E96FF&area=true&area_color=4E96FF&hide_border=true) -->
 
 # 💫 About Me:
 💻 MERN-stack Developer

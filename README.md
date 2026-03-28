@@ -4,14 +4,14 @@
   <a href="https://github.com/muhammad-danial-malik">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=10000000&color=4E96FF&center=true&repeat=false&width=535&lines=Muhammad+Danial+Malik" alt="Muhammad Danial Malik" /></a>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+MERN+Stack+Developer!&font=Fira%20Code&center=true&width=600&height=45&color=4e96ff&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Full+Stack+Developer!&font=Fira%20Code&center=true&width=600&height=45&color=4e96ff&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <!-- [GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammad-danial-malik&bg_color=00000000&color=4E96FF&line=4E96FF&point=4E96FF&area=true&area_color=4E96FF&hide_border=true) -->
 
 # 💫 About Me:
-💻 MERN-stack Developer
-I’m a MERN-stack developer focused on building fast, user-friendly web apps. I combine clean code with smooth animations and strong performance for engaging experiences.
+💻 Full stack Developer
+I’m a Full stack developer focused on building fast, user-friendly web apps. I combine clean code with smooth animations and strong performance for engaging experiences.
 
 🤝 Teamwork
 I enjoy working with others to build great products. Whether it’s front-end or back-end, I believe collaboration and good communication lead to better results.
